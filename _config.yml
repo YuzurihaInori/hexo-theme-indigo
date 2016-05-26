@@ -16,22 +16,22 @@ menu:
   tags:
     url: /tags
   github:
-    url: https://github.com/yscoder
-    target: _blank
+    url: /
+    target: 
   weibo:
-    url: http://www.weibo.com/ysweb
-    target: _blank
+    url: /
+    target:
   link:
-    text: 测试
+    text: 嗯。。。。
     url: /
 
-rss: /atom.xml
+#rss: /atom.xml
 
 #你的头像url
-avatar: /img/logo.jpg
+avatar: /img/logo.gif
 
 # email
-email: 634206017@qq.com
+email: 
 
 # Content
 tags:
@@ -42,7 +42,7 @@ mathjax: false
 archive_yearly: true
 
 #是否开启分享
-share: true
+share: false
 
 #是否开启搜索
 search: true
@@ -69,4 +69,4 @@ less:
 
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
-duoshuo: ysblog
+duoshuo: false
